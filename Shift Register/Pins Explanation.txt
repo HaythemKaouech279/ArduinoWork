@@ -1,0 +1,8 @@
+VCC:High (5v)
+GND:Ground(0v)
+QA...QH:OUTPUTS
+SRCLR(BAR):Clear (Must Have High so that the Shif Register Works)
+OE(BAR):Must be low
+SER:Data Line :The pin That gives The value
+RCLK:INPUT CLOCK:Make the value of SER go to memory
+SRCLK:OUTPUT CLOCK:Make the values come out

@@ -1,0 +1,1 @@
+An esp-32 based project that lets you take ECG measurements and send it to firebase realtime database
